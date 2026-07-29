@@ -1,8 +1,10 @@
 # Hi there, I'm EuropaYou!
 
-[![Location](https://img.shields.io/badge/Location-Backrooms-blue?style=flat-square&logo=googlemaps)](https://github.com/EuropaYou)
+[![Location](https://img.shields.io/badge/Backrooms--blue?style=flat-square&logo=googlemaps)](https://github.com/EuropaYou)
 [![Python](https://img.shields.io/badge/Python--3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java--ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/EuropaYou)
+[![Vulkan](https://img.shields.io/badge/Vulkan--FC2510?style=flat-square&logo=vulkan&logoColor=white)](https://github.com/EuropaYou)
+[![C++](https://img.shields.io/badge/C++--00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/EuropaYou)
 [![Repositories](https://img.shields.io/badge/Repositories-19+-181717?style=flat-square&logo=github)](https://github.com/EuropaYou?tab=repositories)
 
 Open-source developer. I build and maintain projects across **game engine prototyping**, **media automation tools**, **localization utilities**, **system monitoring plugins** and **Minecraft rendering optimizations**.
