@@ -20,17 +20,11 @@ Open-source developer. I build and maintain projects across **game engine protot
 ---
 ### Featured Repositories
 
-#### Game Engines & Graphics
 * **[nsge-vk](https://github.com/EuropaYou/nsge-vk)** – A early custom prototype game engine. This prototype is from January 2023
-
-#### Automation, Media & Utilities
 * **[Telegram-Media-Downloader](https://github.com/EuropaYou/Telegram-Media-Downloader)** & **[Instagram-Downloader](https://github.com/EuropaYou/Instagram-Downloader)** – CLI and script tools for batch acquiring channel media.
 * **[ComfyUI-Crystools](https://github.com/EuropaYou/ComfyUI-Crystools)** – Resource usage monitoring nodes for local AI generation workflows.
 * **[CrowdinHelper](https://github.com/EuropaYou/CrowdinHelper)** – Utilities for streamlining platform translation synchronization workflows.
 * **[json-folder-minifier](https://github.com/EuropaYou/json-folder-minifier)** – Automated directory-wide JSON minification utility.
-
-
-#### Minecraft Performance & Rendering Engine Mods
 * **[sodium-fabric](https://github.com/EuropaYou/sodium-fabric)** & **[sodium-extra-fabric](https://github.com/EuropaYou/sodium-extra-fabric)** – Client-side rendering optimization engine and expanded feature set.
 * **[Dynamic-FPS](https://github.com/EuropaYou/Dynamic-FPS)** & **[MoreCulling](https://github.com/EuropaYou/MoreCulling)** – Frame rate throttling when inactive and aggressive block/entity culling optimizations.
 
