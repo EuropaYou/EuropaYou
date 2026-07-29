@@ -33,7 +33,7 @@ Open-source developer. I build and maintain projects across **game engine protot
 ### Tech Stack
 
 ```text
-Graphics & Core : Vulkan, C++, Java, Python, Shell / Bash
+Graphics & Core : Vulkan, C++, Java, Python, Shell / Bash, FFmpeg
 Ecosystems      : Fabric, NeoForge/Forge, Mixins, Git
 APIs & Tools    : ComfyUI, Crowdin, Telegram API, System Metrics (HWiNFO)
 Environment   : Linux / Windows
