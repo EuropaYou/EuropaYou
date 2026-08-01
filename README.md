@@ -13,7 +13,7 @@ Open-source developer. I build and maintain projects across **game engine protot
 
 ### What I Work On
 
-- **Media Automation & Downloader Utilities:** Scripts and tools designed for automated media downloads, pipeline processing, and asset management (`Telegram-Media-Downloader`, `Instagram-Downloader`, `gallery-dl`).
+- **Automation & Downloader Utilities:** Scripts and tools designed for automated media downloads, pipeline processing, metadata handling and asset management (`Telegram-Media-Downloader`, `Instagram-Downloader`, `Metadata Tools`, `gallery-dl`).
 - **Localization & Community Projects:** Translation tools, crowdsourced localization helpers (`CrowdinHelper`), and hardware architecture documentation (`Architecture-of-consoles`).
 - **System & AI Tools:** AI workflow tools (`ComfyUI-Crystools`) and hardware monitoring extensions (`HWiNFO`).
 
@@ -22,10 +22,10 @@ Open-source developer. I build and maintain projects across **game engine protot
 
 * **[nsge-vk](https://github.com/EuropaYou/nsge-vk)** – A early custom prototype game engine. This prototype is from January 2023
 * **[Telegram-Media-Downloader](https://github.com/EuropaYou/Telegram-Media-Downloader)** & **[Instagram-Downloader](https://github.com/EuropaYou/Instagram-Downloader)** – CLI and script tools for batch acquiring channel media.
-* **[ComfyUI-Crystools](https://github.com/EuropaYou/ComfyUI-Crystools)** – Resource usage monitoring nodes for local AI generation workflows.
-* **[CrowdinHelper](https://github.com/EuropaYou/CrowdinHelper)** – Utilities for streamlining platform translation synchronization workflows.
-* **[json-folder-minifier](https://github.com/EuropaYou/json-folder-minifier)** – Automated directory-wide JSON minification utility.
-* **[sodium-fabric](https://github.com/EuropaYou/sodium-fabric)** & **[sodium-extra-fabric](https://github.com/EuropaYou/sodium-extra-fabric)** – Client-side rendering optimization engine and expanded feature set.
+* **[ComfyUI-Crystools](https://github.com/EuropaYou/ComfyUI-Crystools)** – Resource usage monitoring nodes for local AI generation workflows in ComfyUI.
+* **[CrowdinHelper](https://github.com/EuropaYou/CrowdinHelper)** – Tampermonkey Script for streamlining platform translation synchronization workflows.
+* **[Metadata Tools](https://github.com/EuropaYou/json-folder-minifier)** – JSON Metadata schema validation, shrinking and deletion.
+* **[sodium-extra-fabric](https://github.com/EuropaYou/sodium-extra-fabric)** – Client-side rendering optimization engine's expanded feature set.
 * **[Dynamic-FPS](https://github.com/EuropaYou/Dynamic-FPS)** & **[MoreCulling](https://github.com/EuropaYou/MoreCulling)** – Frame rate throttling when inactive and aggressive block/entity culling optimizations.
 
 ---
